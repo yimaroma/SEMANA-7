@@ -1,0 +1,15 @@
+http://localhost:3000/reportes, el servidor guarda la información en un array en memoria llamado reportes.
+
+Luego, al realizar una petición GET a la misma ruta, el servidor devuelve todos los reportes registrados en formato JSON.
+
+Por ejemplo, después de enviar un reporte, la respuesta al consultar GET /reportes es:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+
+Esto demuestra que la API permite registrar y consultar información correctamente usando métodos POST y GET.
