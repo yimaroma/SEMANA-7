@@ -1,0 +1,9 @@
+Es importante que las comunidades puedan registrar y consultar reportes en una plataforma 
+tecnológica porque facilita la comunicación entre los ciudadanos y las autoridades.
+Este tipo de sistemas permite identificar problemas de manera más rápida y organizada. 
+Además, ayuda a llevar un control de las incidencias que ocurren en una comunidad.
+El uso de tecnologías como APIs permite gestionar esta información de forma eficiente. 
+También promueve la participación ciudadana y la transparencia.
+Cuando los datos están organizados, es más fácil tomar decisiones.
+Estas herramientas contribuyen al desarrollo social y comunitario.
+En general, mejoran la calidad de vida de las personas.
